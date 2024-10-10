@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bc338bc4-a011-4806-9a94-d957ec031c02)# Thomas was Never Alone
+# Thomas was Never Alone
 
 ## Project Description
 "Thomas was Never Alone" is a 2D platformer game built using Flask , Spacy and Pygame, inspired by the melancholic game "Thomas Was Alone." This project transforms the original concept into a vibrant and joyful experience for kids, featuring colorful visuals and interactive gameplay. Players control a character named Thomas, issuing commands to move left, right, jump, and change the character's color, all set against a dynamic backdrop.
@@ -55,8 +55,7 @@
    - **change color to [color]**: Change the character's color (available colors: red, blue, yellow, green, white, black)
 
 ## Screenshots
-![Game Screenshot](![image](https://github.com/user-attachments/assets/a67360ca-a896-4a01-8568-90f0ae1bd92f))  
-
+![image](https://github.com/user-attachments/assets/bc338bc4-a011-4806-9a94-d957ec031c02)
 
 ## Contact
 For any inquiries or feedback, feel free to contact me at fedy.benhassouna@insat.ucar.tn.
