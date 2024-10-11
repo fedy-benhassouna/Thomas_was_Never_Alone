@@ -43,7 +43,7 @@ You can find a video demo of "Thomas was Never Alone" in this youtube link : htt
 
 5. **Run the Application**
    ```bash
-   python app.py
+   python game.py
    ```
 
    The game will be accessible at `http://127.0.0.1:5000`.
